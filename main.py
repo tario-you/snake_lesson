@@ -141,8 +141,3 @@ def gameLoop():
 
 
 gameLoop()
-
-'''
-foodx = random.randint(11, 39)
-foody = random.randint(11, 39)
-'''
